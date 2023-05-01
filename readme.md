@@ -1,5 +1,5 @@
 # HANDLEVERSE
 
 ## Place, where you can find all my social media handles.
-### [visit HANDLEVERSE](https://handle-verse.vercel.app/)
+### [visit](https://handle-verse.vercel.app/) HANDLEVERSE.
 ### Deployed on [VERCELL](https://vercel.com/dashboard).
